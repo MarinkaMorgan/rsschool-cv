@@ -2,7 +2,8 @@
 ## Contacts:
 * **Discord:** MarinaMorgan(MarinkaMorgan)#7003 
 * **GitHub:** MarinkaMorgan
-* **Email:** dlyamenyalyubimoy@gmail.com 
+* **Email:** dlyamenyalyubimoy@gmail.com
+* **Insta** marinamorganuser
 
 ## Objectives:
 
