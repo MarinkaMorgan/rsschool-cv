@@ -11,6 +11,7 @@ The position should be one in which my creative, technical and interpersonal ski
 
 ## Code example:
 https://github.com/MarinkaMorgan/portfolio-shecodes
+https://github.com/MarinkaMorgan/my-weather-app
 
 ## Education and courses:
 
