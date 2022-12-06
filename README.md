@@ -1,2 +1,2 @@
 # rsschool-cv
- https://marinkamorgan.github.io/rsschool-cv/cv
+ https://marinkamorgan.github.io/rsschool-cv/
