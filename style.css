@@ -307,9 +307,9 @@ body {
     flex-direction: column;
     align-items: center;
   }
-  .nav {
+  /* .nav {
     display: none;
-  }
+  } */
   
   
 }
